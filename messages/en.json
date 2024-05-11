@@ -1,0 +1,38 @@
+{
+    "$schema": "https://inlang.com/schema/inlang-message-format",
+    "title": "I’m a freelance web developer",
+    "description": "Specializing in the Art of Crafting Web Software Solutions. With 5 years of hands-on experience, I bring design, conceptualization, and development expertise to empower my clients with innovative digital solutions.",
+    "firstSkill": "Frontend Development (React, Next, Vue)",
+    "secondSkill": "Backend Development (Node, Express, Symfony)",
+    "thirdSkill": "UI/UX optimization and prototyping",
+    "fourthSkill": "E-Commerce Development with Shopware 5/6, JTL and custom Shops",
+    "projectsSeparator": "Projects",
+    "contactSeparator": "Contact Me",
+    "phoneButton": "Telephone",
+
+    "currentProject": "Current Project",
+
+    "horschHeadline": "Horsch Maschinenbau GmbH",
+    "ttHeadline": "Tom Tailor GmbH",
+    "armbrHeadline": "Armbrüster Consulting GmbH",
+    "seglerHeadline": "Segler-Förderanlagen Maschinenfabrik GmbH",
+    "miconyHeadline": "Micony GmbH",
+    "horvathHeadline": "Horváth AG",
+
+    "horschJob": "Creating concepts, designs and developing multiple Webapps and Shopware 6 Plugin",
+    "ttJob": "Developing a headless online shop in a team using modern frontend frameworks like next.js while incorporating data from backend services.",
+    "armbrJob": "Developing Web Apps, JTL Shop Plugins, Shopware 5/6 plugins, scripts and maintaining online shops.",
+    "seglerJob": "Developing an award winning iOS Enterprise App for protocolling internal processes.",
+    "miconyJob": "Developing a Shopware 6 template for a digital e-commerce platform and an iOS app concept.",
+    "horvathJob": "To promote a new digital product, I created a marketing website from start to finish, including concept development, design, and implementation.",
+
+    "horschTime": "Feb 2022 - today",
+    "ttTime": "Sep 2021 - Feb 2023",
+    "armbrTime": "Jul 2018 - today",
+    "seglerTime": "Jul 2018 - Aug 2022",
+    "miconyTime": "Feb 2021 - Jun 2021",
+    "horvathTime": "Apr 2020 - Jul 2020",
+
+    "aboutHeadline": "About Me",
+    "skillsHeadline": "Skills & Focus"
+}

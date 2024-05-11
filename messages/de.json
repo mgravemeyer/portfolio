@@ -1,0 +1,38 @@
+{
+    "$schema": "https://inlang.com/schema/inlang-message-format",
+    "title": "Ich bin freiberuflicher Webentwickler",
+    "description": "Ich habe mich auf die Entwicklung von Web-Softwarelösungen spezialisiert. Mit 5 Jahren praktischer Erfahrung bringe ich Kenntnisse in Design, Konzeptualisierung und Entwicklung mit, um innovative digitale Lösungen für meine Kunden zu entwickeln.",
+    "firstSkill": "Frontend Entwicklung (React, Next, Vue)",
+    "secondSkill": "Backend Entwicklung (Node, Express, Symfony)",
+    "thirdSkill": "UI/UX Optimierung und Entwicklung",
+    "fourthSkill": "E-Commerce-Entwicklung mit Shopware 5/6, JTL und Eigenentwicklungen",
+    "projectsSeparator": "Projekte",
+    "contactSeparator": "Kontakt",
+    "phoneButton": "Telefon",
+
+    "currentProject": "Aktueller Auftrag",
+
+    "horschHeadline": "Horsch Maschinenbau GmbH",
+    "ttHeadline": "Tom Tailor GmbH",
+    "armbrHeadline": "Armbrüster Consulting GmbH",
+    "seglerHeadline": "Segler-Förderanlagen Maschinenfabrik GmbH",
+    "miconyHeadline": "Micony GmbH",
+    "horvathHeadline": "Horváth AG",
+
+    "horschJob": "Konzeption und Entwicklung mehrerer Webapps und Shopware 6 Plugins\n",
+    "ttJob": "Entwicklung eines headless Onlineshops in einem Team. Es wurden moderne frameworks wie Next.js benutzt, während Daten und Services von verschiedenen anderen System mit eingebunden wurden",
+    "armbrJob": "Entwicklung von Webanwendungen, JTL Shop Plugins, Shopware 5/6 Plugins, Skripten und die Wartung von Onlineshops",
+    "seglerJob": "Entwickelt wurde eine iOS Enterprise App zur Protokolierung von Internen Prozessen. Die App hat einen Preis vom Team `Zukunftsfest` gewonnen",
+    "miconyJob": "Entwicklung eines Shopware 6 Templates für eine digitale E-Commerce Platform und ein iOS App Konzept",
+    "horvathJob": "Konzeption, Entwurf und Umsetzung einer Marketing-Website für ein neues digitales Produkt",
+
+    "horschTime": "Feb 2022 - heute",
+    "ttTime": "Sep 2021 - Feb 2023",
+    "armbrTime": "Jul 2018 - heute",
+    "seglerTime": "Jul 2018 - Aug 2022",
+    "miconyTime": "Feb 2021 - Jun 2021",
+    "horvathTime": "Apr 2020 - Jul 2020",
+
+    "aboutHeadline": "Über mich",
+    "skillsHeadline": "Fähigkeiten und Fokus"
+}
