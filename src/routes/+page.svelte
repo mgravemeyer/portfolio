@@ -18,7 +18,7 @@
 			<div class="flex flex-col lg:w-[26rem] lg:mt-12">
 				<enhanced:img
 					class="w-16 h-16"
-					src='$lib/media/logo.jpg'
+					src='$lib/media/logo.webp'
 					alt="logo"
 				/>
 				<h1 class=" font-quickLight mt-4 text-3xl mr-8 leading-normal">
@@ -29,7 +29,7 @@
 			<div class="fle flex-col justify-start items-center">
 				<enhanced:img
 					class="mt-4 lg:max-w-[870px] lg:mt-0 w-full"
-					src='$lib/media/profile.jpg'
+					src='$lib/media/profile.webp'
 					alt="profile"
 				/>
 				<MobileContactButtons hideOnDesktop />
