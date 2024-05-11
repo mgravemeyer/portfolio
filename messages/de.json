@@ -1,7 +1,7 @@
 {
     "$schema": "https://inlang.com/schema/inlang-message-format",
     "title": "Ich bin freiberuflicher Webentwickler",
-    "description": "Ich habe mich auf die Entwicklung von Web-Softwarelösungen spezialisiert. Mit 5 Jahren praktischer Erfahrung bringe ich Kenntnisse in Design, Konzeptualisierung und Entwicklung mit, um innovative digitale Lösungen für meine Kunden zu entwickeln.",
+    "description": "Als Experte für die Entwicklung von digitalen Softwarelösungen verfüge ich über fast 6 Jahre praktische Erfahrung, um innovative digitale Lösungen für meine Kunden zu entwickeln. Ich bin ein Generalist, der bisher Unternehmen in den unterschiedlichsten Bereichen unterstützt hat. Von der Konzeption über die Entwicklung bis hin zum Partner- und Projektmanagement war ich für eine Vielzahl von Aufgaben verantwortlich.",
     "firstSkill": "Frontend Entwicklung (React, Next, Vue)",
     "secondSkill": "Backend Entwicklung (Node, Express, Symfony)",
     "thirdSkill": "UI/UX Optimierung und Entwicklung",
@@ -19,12 +19,12 @@
     "miconyHeadline": "Micony GmbH",
     "horvathHeadline": "Horváth AG",
 
-    "horschJob": "Konzeption und Entwicklung mehrerer Webapps und Shopware 6 Plugins\n",
-    "ttJob": "Entwicklung eines headless Onlineshops in einem Team. Es wurden moderne frameworks wie Next.js benutzt, während Daten und Services von verschiedenen anderen System mit eingebunden wurden",
-    "armbrJob": "Entwicklung von Webanwendungen, JTL Shop Plugins, Shopware 5/6 Plugins, Skripten und die Wartung von Onlineshops",
-    "seglerJob": "Entwickelt wurde eine iOS Enterprise App zur Protokolierung von Internen Prozessen. Die App hat einen Preis vom Team `Zukunftsfest` gewonnen",
-    "miconyJob": "Entwicklung eines Shopware 6 Templates für eine digitale E-Commerce Platform und ein iOS App Konzept",
-    "horvathJob": "Konzeption, Entwurf und Umsetzung einer Marketing-Website für ein neues digitales Produkt",
+    "horschJob": "Konzeption und Entwicklung mehrerer Webapps und Shopware 6 Plugins",
+    "ttJob": "Es wurde in einem agilen Umfeld (Scrumban) gearbeitet, in dem wir Releases und Sprints diskutiert und geplant haben. Meine Hauptaufgabe bestand darin, als Teil eines sechsköpfigen Teams einen Headless-Online-Shop zu entwickeln. Ich habe mit Integrationspartnern zusammengearbeitet, um technische Integrationen zu planen, Verbesserungen anzusprechen und Integrationsprobleme zu lösen. Darüber hinaus habe ich ein Team von drei Personen aus der QA-Abteilung eingearbeitet und betreut.",
+    "armbrJob": "Entwicklung von E-Commerce-Shops, maßgeschneiderten Webanwendungen, einer iOS-App zur Berechnung von Belichtungszeiten für Kamerafilter und Entwicklung mehrerer Shop-Plugins für verschiedene Shopsysteme, die Daten mit einem SaaS-Produkt zur automatisierten E-Mail-Retargeting synchronisieren.",
+    "seglerJob": "Die Firma Segler benötigte eine iOS-Enterprise-App, die ich konzipiert, entworfen und entwickelt habe, um interne Prozesse zu protokollieren. Das Ziel war es, Fehlerhafte Maschinenkonstruktionen mithilfe einer Handykamera und des Intranets des Unternehmens zu Protokolieren und den Fehler an die richtige abteilung automatisiert zu schicken. Funktionen und Releases wurden in regelmäßigen Meetings mit dem Unternehmen abgestimmt. Die App gewann einen Preis namens 'Zukunftsfest' vom Land Niedersachsen.",
+    "miconyJob": "Ein Konzept und ein Template für einen Shopware 6 Shop wurden entwickelt. Zusätzlich wurde eine iOS-App konzipiert und designt.",
+    "horvathJob": "Konzeption, Entwurf und Umsetzung einer Marketing-Website für ein neues digitales Produkt mit SEO und SEA optimierungen und allen relevanten Google Lighthouse optimierungen.",
 
     "horschTime": "Feb 2022 - heute",
     "ttTime": "Sep 2021 - Feb 2023",

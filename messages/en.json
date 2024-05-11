@@ -1,7 +1,7 @@
 {
     "$schema": "https://inlang.com/schema/inlang-message-format",
     "title": "I’m a freelance web developer",
-    "description": "Specializing in the Art of Crafting Web Software Solutions. With 5 years of hands-on experience, I bring design, conceptualization, and development expertise to empower my clients with innovative digital solutions.",
+    "description": "As an expert in developing digital software solutions, I have nearly 6 years of practical experience in crafting innovative digital solutions for my clients. I am a generalist who has supported companies across various domains. From conceptualization to development, as well as partner and project management, I have been responsible for a diverse range of tasks.",
     "firstSkill": "Frontend Development (React, Next, Vue)",
     "secondSkill": "Backend Development (Node, Express, Symfony)",
     "thirdSkill": "UI/UX optimization and prototyping",
@@ -20,11 +20,11 @@
     "horvathHeadline": "Horváth AG",
 
     "horschJob": "Creating concepts, designs and developing multiple Webapps and Shopware 6 Plugin",
-    "ttJob": "Developing a headless online shop in a team using modern frontend frameworks like next.js while incorporating data from backend services.",
-    "armbrJob": "Developing Web Apps, JTL Shop Plugins, Shopware 5/6 plugins, scripts and maintaining online shops.",
-    "seglerJob": "Developing an award winning iOS Enterprise App for protocolling internal processes.",
+    "ttJob": "I worked in an Agile environment (Scrumban) where we discussed and planned releases/sprints. My main task was to develop a headless online shop as part of a six-person team. I collaborated with integration partners to plan technical integrations, address improvements, and resolve integration issues. Additionally, I onboarded and trained a team of three individuals from the QA department.",
+    "armbrJob": "Development of e-commerce shops, custom web applications, an iOS app for calculating camera filter exposure times, and the development of multiple shop plugins for different shop systems that synchronize data with a SaaS product for automated email retargeting.",
+    "seglerJob": "I worked on an iOS enterprise app that I conceptualized, designed, and developed to log internal processes. The goal was to automate the process of logging failures on machines using the phone camera and the company's intranet. Features and releases were planned in regular meetings with the company. The app won an award called 'Zukunftsfest'.",
     "miconyJob": "Developing a Shopware 6 template for a digital e-commerce platform and an iOS app concept.",
-    "horvathJob": "To promote a new digital product, I created a marketing website from start to finish, including concept development, design, and implementation.",
+    "horvathJob": "Conception, design, and implementation of a marketing website for a new digital product with SEO and SEA optimizations, as well as all relevant Google Lighthouse optimizations.",
 
     "horschTime": "Feb 2022 - today",
     "ttTime": "Sep 2021 - Feb 2023",
