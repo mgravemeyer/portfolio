@@ -2,6 +2,10 @@
 	import '../app.css'
 	import { ParaglideJS } from '@inlang/paraglide-sveltekit'
 	import { i18n } from '$lib/i18n'
+	import { inject } from '@vercel/analytics'
+	import { injectSpeedInsights } from '@vercel/speed-insights/sveltekit';
+	inject()
+	injectSpeedInsights()
 </script>
 
 <svelte:head>
