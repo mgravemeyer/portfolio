@@ -1,6 +1,7 @@
 <svelte:head>
 	<link rel="canonical" href="http://www.gravemeyer.com/datenschutz">
 	<title>Datenschutzerkl&auml;rung</title>
+	<meta name="description" content="Full-Stack Freelancer | 📍Berlin | 15+ Projects">
 </svelte:head>
 
 <div class="p-8 sm:p-24">
