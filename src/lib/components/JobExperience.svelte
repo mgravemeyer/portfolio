@@ -9,7 +9,7 @@
 	{#if job?.image}
 		<img class="max-w-[13rem] w-auto mb-1" src={job.image} alt={job.alt} />
 	{:else}
-		<h3 class='font-quickBold mb-1'>{job.headline}</h3>
+		<p class='font-quickBold mb-1'>{job.headline}</p>
 	{/if}
 	<p class={`text-sm mb-2 ${job.current ? 'text-black ' : 'text-gray-800'}`}>{job.time}</p>
 	<p class="font-quickLight">{job.translation}</p>
