@@ -11,6 +11,6 @@
 	{:else}
 		<h3 class='font-quickBold mb-1'>{job.headline}</h3>
 	{/if}
-	<p class={`text-sm mb-2 ${job.current ? 'text-black ' : 'text-gray-500'}`}>{job.time}</p>
+	<p class={`text-sm mb-2 ${job.current ? 'text-black ' : 'text-gray-600'}`}>{job.time}</p>
 	<p class="font-quickLight">{job.translation}</p>
 </div>
