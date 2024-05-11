@@ -10,6 +10,7 @@
 <svelte:head>
 	<link rel="canonical" href="http://www.gravemeyer.com/">
 	<title>Gravemeyer Portfolio</title>
+	<meta name="description" content="Full-Stack Freelancer | 📍Berlin | 15+ Projects">
 </svelte:head>
 
 <div class="flex flex-col w-full justify-center items-center mt-4 sm:mt-8 lg:mt-16 xl:mx-0">
