@@ -7,6 +7,9 @@
 	import JobsList from '$lib/components/JobsList.svelte';
 </script>
 
+<svelte:head>
+	<link rel="canonical" href="http://www.gravemeyer.com/">
+</svelte:head>
 
 <div class="flex flex-col w-full justify-center items-center mt-4 sm:mt-8 lg:mt-16 xl:mx-0">
 	<div class="w-full px-4 sm:px-32 lg:w-[900px] lg:px-0">
