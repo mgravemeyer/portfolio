@@ -8,7 +8,7 @@
 </script>
 
 <svelte:head>
-	<title>Gravemeyer Portfolio</title>
+	<title>Portfolio</title>
 	<link rel="canonical" href="http://www.gravemeyer.com/">
 </svelte:head>
 
