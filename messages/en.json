@@ -1,7 +1,7 @@
 {
     "$schema": "https://inlang.com/schema/inlang-message-format",
     "title": "I’m a freelance web developer",
-    "description": "As an expert in developing digital software solutions, I have nearly 6 years of practical experience in crafting innovative digital solutions for my clients. I am a generalist who has supported companies across various domains. From conceptualization to development, as well as partner and project management, I have been responsible for a diverse range of tasks.",
+    "description": "As an expert in developing digital software solutions, I have nearly 6 years of practical experience in crafting innovative digital solutions for my clients. I am a generalist who has supported companies across various domains. From conceptualization to development, as well as project management, I have been responsible for a diverse range of tasks.",
     "firstSkill": "Frontend Development (React, Next, Vue)",
     "secondSkill": "Backend Development (Node, Express, Symfony)",
     "thirdSkill": "UI/UX optimization and prototyping",

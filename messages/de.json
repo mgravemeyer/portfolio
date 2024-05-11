@@ -1,7 +1,7 @@
 {
     "$schema": "https://inlang.com/schema/inlang-message-format",
     "title": "Ich bin freiberuflicher Webentwickler",
-    "description": "Als Experte für die Entwicklung von digitalen Softwarelösungen verfüge ich über fast 6 Jahre praktische Erfahrung, um innovative digitale Lösungen für meine Kunden zu entwickeln. Ich bin ein Generalist, der bisher Unternehmen in den unterschiedlichsten Bereichen unterstützt hat. Von der Konzeption über die Entwicklung bis hin zum Partner- und Projektmanagement war ich für eine Vielzahl von Aufgaben verantwortlich.",
+    "description": "Als Experte für die Entwicklung von digitalen Softwarelösungen verfüge ich über fast 6 Jahre praktische Erfahrung, um innovative digitale Lösungen für meine Kunden zu entwickeln. Ich bin ein Generalist, der bisher Unternehmen in den unterschiedlichsten Bereichen unterstützt hat. Von der Konzeption über die Entwicklung bis hin zum Projektmanagement war ich für eine Vielzahl von Aufgaben verantwortlich.",
     "firstSkill": "Frontend Entwicklung (React, Next, Vue)",
     "secondSkill": "Backend Entwicklung (Node, Express, Symfony)",
     "thirdSkill": "UI/UX Optimierung und Entwicklung",
