@@ -5,6 +5,13 @@
 	import MobileContactButtons from '$lib/components/MobileContactButtons.svelte';
 	import SkillsList from '$lib/components/SkillsList.svelte';
 	import JobsList from '$lib/components/JobsList.svelte';
+	import { page } from '$app/stores';
+	import { i18n } from '$lib/i18n'
+	import { goto } from '$app/navigation';
+
+	const goToLanguage = (language: 'de' | 'en') => {
+		goto(i18n.resolveRoute('/', language), {replaceState: true})
+	}
 </script>
 
 <svelte:head>
@@ -26,7 +33,11 @@
 				</h1>
 				<DesktopContactButtons />
 			</div>
-			<div class="fle flex-col justify-start items-center">
+			<div class="flex flex-col justify-start items-end">
+				<div class=" flex flex-row w-52 mt-4 drop-shadow-md mb-2">
+					<button on:click={() => goToLanguage('de')} class={`w-56 h-10 text-center flex justify-center items-center ${$page.url.pathname.includes('de') ? 'bg-black text-white' : 'bg-gray-200'}`}>Deutsch</button>
+					<button on:click={() => goToLanguage('en')} class={`w-56 h-10 text-center flex justify-center items-center ${!$page.url.pathname.includes('de') ? 'bg-black text-white' : 'bg-gray-200'}`}>English</button>
+				</div>
 				<enhanced:img
 					class="mt-4 lg:max-w-[870px] lg:mt-0 w-full"
 					src='$lib/media/profile.webp'
