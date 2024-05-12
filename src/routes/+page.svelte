@@ -34,7 +34,7 @@
 				<DesktopContactButtons />
 			</div>
 			<div class="flex flex-col justify-start items-start">
-				<div class=" flex flex-row w-full lg:w-52 mt-4 drop-shadow-md mb-2">
+				<div class="flex flex-row w-full lg:w-52 mt-4 drop-shadow-md mb-2 lg:fixed lg:top-0 lg:right-5">
 					<button on:click={() => goToLanguage('de')} class={`w-full h-10 text-center flex justify-center items-center ${$page.url.pathname.includes('de') ? 'bg-black text-white' : 'bg-gray-200'}`}>Deutsch</button>
 					<button on:click={() => goToLanguage('en')} class={`w-full h-10 text-center flex justify-center items-center ${!$page.url.pathname.includes('de') ? 'bg-black text-white' : 'bg-gray-200'}`}>English</button>
 				</div>
