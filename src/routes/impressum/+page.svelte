@@ -1,6 +1,5 @@
 <svelte:head>
 	<title>Impressum</title>
-	<link rel="canonical" href="http://www.gravemeyer.com/impressum">
 </svelte:head>
 
 <div class="p-8 sm:p-24">

@@ -1,6 +1,5 @@
 <svelte:head>
 	<title>Datenschutzerkl&auml;rung</title>
-	<link rel="canonical" href="http://www.gravemeyer.com/datenschutz">
 </svelte:head>
 
 <div class="p-8 sm:p-24">
