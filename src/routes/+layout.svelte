@@ -9,7 +9,6 @@
 </script>
 
 <svelte:head>
-	<meta name="description" content="Freelancer specialized in the development of complex web solutions | 📍Berlin | ✅15+ Projects | React/Next.js, VueJS/Nuxt, TypeScript, Shopware 6, PHP (Symfony, Laravel).">
 	<meta name="description" lang="de" content="Freelancer spezialisiert auf die Entwicklung komplexer Webanwendungen | 📍Berlin | ✅15+ Projekte | React/Next.js, VueJS/Nuxt, TypeScript, Shopware 6, PHP (Symfony, Laravel).">
 	<meta name="keywords" content="Gravemeyer, Maximilian Gravemeyer, Entwickler, Freelancer">
 	<meta name="author" content="Maximilian Gravemeyer">
