@@ -6,7 +6,7 @@
 	export let hideOnDesktop: boolean = false
 </script>
 
-<div class={`${hideOnDesktop ? 'lg:hidden' : ''}`}>
+<div class={`w-full ${hideOnDesktop ? 'lg:hidden' : ''}`}>
 	<div class=" flex flex-row mt-4">
 		<ContactButton
 			name="E-Mail"
